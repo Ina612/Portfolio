@@ -9,4 +9,3 @@ The projects are mostly the result of the stydying process on the Master in Busi
 
 Some of the projects are made for Kaggle competitions.
 
-The link to the data source: https://drive.google.com/file/d/1FDkrAL2mQm4Jn_nGtBYSOBOB7RoujNWQ/view?usp=sharing
